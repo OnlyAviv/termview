@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RedYetiDev/termview.git"
+    "url": "https://github.com/onlyaviv/termview.git"
   },
   "keywords": [
     "Termview",
@@ -18,7 +18,7 @@
     "Terminal",
     "View"
   ],
-  "author": "RedYetiDev",
+  "author": "Aviv Keller",
   "license": "MIT",
   "dependencies": {
     "jimp": "^0.16.1"
